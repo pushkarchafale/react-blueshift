@@ -1,0 +1,16 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.repo-name {
+  display: inline-block;
+  margin: 0px 5px;
+  width: 48%;
+  text-decoration: none;
+  border-bottom: 1px solid aqua;
+}
+
+#list-section {
+  margin: 10px 0px;
+}
